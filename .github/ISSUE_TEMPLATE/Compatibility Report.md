@@ -22,7 +22,7 @@ x
 
 <hr>
 
-## Recommended Status: [Excellent, Good, Unplayable]
+## Recommended Status: [Excellent, Good, Launches, Unplayable]
 
 <hr>
 
